@@ -1,13 +1,15 @@
 public class whille {
     public static void main(String[] args) {
-        int i = 5;
+        int i = 1;
+        
+        while (i <= 4) {
 
-
-        while (i > 2) {
-            System.out.println("Aniket " + i);
+            System.out.println("Hello Aniket " + i);
             i++;
+
             
         }
-        System.out.println("Hello Aniket ");
     }
 }
+
+
