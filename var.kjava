@@ -1,0 +1,19 @@
+public class Variables {
+    public static void main(String[] args) {
+        // Primitive data types
+        byte myByte = 100;
+        short myShort = 5000;
+        int myInt = 100000;
+        long myLong = 15000000000L;
+        float myFloat = 5.75f;
+        double myDouble = 19.99d;
+        boolean myBool = true;
+        char myChar = 'A';
+        
+        // Reference data type
+        String myString = "Hello Java";
+        
+        System.out.println(myInt);
+        System.out.println(myString);
+    }
+}
